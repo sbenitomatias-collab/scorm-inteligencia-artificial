@@ -1,0 +1,2201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001001001" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001001001" font="Open Sans" controllayout="npnxnanbsnfns01001001001" colorscheme="npnxnanbnsnfns01001001001" string_table="npnxnanbnsnfns01001001001" />
+    <layout name="pxabnsnfns01001001001" font="Open Sans" controllayout="pxabnsnfns01001001001" colorscheme="npnxnanbnsnfns01001001001" string_table="npnxnanbnsnfns01001001001" />
+    <layout name="npxnabnsnfns01001001001" font="Open Sans" controllayout="npxnabnsnfns01001001001" colorscheme="npnxnanbnsnfns01001001001" string_table="npnxnanbnsnfns01001001001" />
+    <layout name="npnxnanbnsnfns01001001001" font="Open Sans" controllayout="npnxnanbnsnfns01001001001" colorscheme="npnxnanbnsnfns01001001001" string_table="npnxnanbnsnfns01001001001" />
+    <layout name="pxabnsnfns01001001000" font="Open Sans" controllayout="pxabnsnfns01001001000" colorscheme="npnxnanbnsnfns01001001001" string_table="npnxnanbnsnfns01001001001" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="false">
+            <options>
+              <option name="title_text" value="INTELIGENCIA ARTIFICIAL" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\6YkJ46cyKNb_DX1024_DY1024.swf" />
+              <option name="html5_logo_url" value="mobile/6DWqlBvNPh1.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="restricted" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="search" value="false" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001001001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001001001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001001001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001001001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001001000">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001001001">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x262626" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x262626" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00183F" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0504D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2754BB" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x12F985" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x948A54" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE46C0A" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x41AEDF" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x41AEDF" alpha="0" stop="0" />
+                <color rgb="0x41AEDF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x41AEDF" alpha="0" stop="0" />
+                <color rgb="0x41AEDF" alpha="0" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x5276C9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x92CDDD" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x12F985" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00183F" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0D0D0D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2754BB" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001001001">
+      <string id="more_info">Más información</string>
+      <string id="bio">Biografía</string>
+      <string id="prev">ANT</string>
+      <string id="acc_previous">siguiente</string>
+      <string id="clear">Borrar y volver al menú</string>
+      <string id="close">Cerrar</string>
+      <string id="continue">Continuar</string>
+      <string id="continueresponsive">Continuar</string>
+      <string id="submit">ENVIAR</string>
+      <string id="acc_submit">presentar</string>
+      <string id="submitall">ENVIAR TODO</string>
+      <string id="acc_submitall">enviar todo</string>
+      <string id="filter">Filtro</string>
+      <string id="acc_finish">finalizar</string>
+      <string id="acc_pause">pausa</string>
+      <string id="restart">Reiniciar</string>
+      <string id="acc_replay">repetición</string>
+      <string id="acc_play">jugar</string>
+      <string id="next">SIG</string>
+      <string id="acc_next">siguiente</string>
+      <string id="finish">FINALIZAR</string>
+      <string id="acc_search_input">búsqueda</string>
+      <string id="acc_volume">volumen</string>
+      <string id="acc_definition">definición</string>
+      <string id="definition">Definición</string>
+      <string id="search_results">Resultados de la búsqueda</string>
+      <string id="terms">Condiciones</string>
+      <string id="search_in">Buscar en:</string>
+      <string id="send_an_email">Enviar correo electrónico</string>
+      <string id="transcript_chk">Transcripción</string>
+      <string id="slide_text_chk">Texto Diapositiva</string>
+      <string id="search">Buscar ...</string>
+      <string id="question_list">Lista de preguntas</string>
+      <string id="check_include">De verificación para incluir</string>
+      <string id="disabled_orientation">Rote el dispositivo</string>
+      <string id="closed_captions">Subtítulos</string>
+      <string id="glossary">Glosario</string>
+      <string id="outline">Menú</string>
+      <string id="transcript">Transcripción</string>
+      <string id="resources">Recursos</string>
+      <string id="acc_resources">los recursos</string>
+      <string id="exit">Salir</string>
+      <string id="resume">Continuar</string>
+      <string id="acc_skipnavigation">Omitir navegación. Presiona Aceptar para volver a la diapositiva.</string>
+      <string id="acc_closed_captions">Subtítulos cerrados. Presiona la barra de espacio para activar y desactivar los subtítulos.</string>
+      <string id="acc_active">activo</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Open Sans">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.64t0pUc1GF9" displaytext="Inteligencia artificial – Machine learning" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.64t0pUc1GF9.6V1P6pdjLYM" displaytext="Inicio" expand="false" type="slide" />
+            <slidelink slideid="_player.64t0pUc1GF9.6ZtHYImJ7Qa" displaytext="Introducción" expand="false" type="slide" />
+            <slidelink slideid="_player.64t0pUc1GF9.5bW72fcJyxB" displaytext="Orientaciones de navegación" expand="false" type="slide" />
+            <slidelink slideid="_player.64t0pUc1GF9.6k1YR4xxzZF" displaytext="La inteligencia artificial" expand="false" type="slide" />
+            <slidelink slideid="_player.64t0pUc1GF9.5VTk1sXwSdU" displaytext="Orígenes y evolución" expand="false" type="slide" />
+            <slidelink slideid="_player.64t0pUc1GF9.5eFx2uQsz86" displaytext="Surgimiento e historia" expand="false" type="slide" />
+            <slidelink slideid="_player.64t0pUc1GF9.6Yhaf2NpJxs" displaytext="La inteligencia artificial en la vida cotidiana" expand="false" type="slide" />
+            <slidelink slideid="_player.64t0pUc1GF9.6Vpn5WuOCfe" displaytext="Machine learning" expand="false" type="slide" />
+            <slidelink slideid="_player.64t0pUc1GF9.5fT16vRrQpi" displaytext="Importancia de la Inteligencia artificial" expand="false" type="slide" />
+            <slidelink slideid="_player.64t0pUc1GF9.6E8ssnnzQwX" displaytext="Deep learning" expand="false" type="slide" />
+            <slidelink slideid="_player.64t0pUc1GF9.6maYidlGsY3" displaytext="La inteligencia artificial en las organizaciones" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLxnWeHvll.5upSeuEGRhr" displaytext="Actividad" expand="false" type="slide" />
+            <slidelink slideid="_player.6Gu693dAaBp.5apbVbVwE6R" displaytext="Inteligencia artificial y seguridad" expand="false" type="slide" />
+            <slidelink slideid="_player.6Gu693dAaBp.6AKOiRqd4x6" displaytext="Reconocimiento facial" expand="false" type="slide" />
+            <slidelink slideid="_player.6Gu693dAaBp.5vQ4LZJTtom" displaytext="Uso en clientes" expand="false" type="slide" />
+            <slidelink slideid="_player.6Gu693dAaBp.5ua8yGs4O1m" displaytext="Uso responsable" expand="false" type="slide" />
+            <slidelink slideid="_player.6Gu693dAaBp.6LsAh8tSPAp" displaytext="Puntuación de similitud/Umbral de similitud" expand="false" type="slide" />
+            <slidelink slideid="_player.6Gu693dAaBp.61mva4MTbXK" displaytext="Importancia de las aplicaciones de Inteligencia artificial" expand="false" type="slide" />
+            <slidelink slideid="_player.6Gu693dAaBp.6Cfs33tQLnm" displaytext="Aplicaciones específicas del reconocimiento facial" expand="false" type="slide" />
+            <slidelink slideid="_player.6Gu693dAaBp.6XryRyVJYrb" displaytext="API´s de reconocimiento facial" expand="false" type="slide" />
+            <slidelink slideid="_player.5lNyU7eFwMS.5zkyaP7tQgy" displaytext="Actividad" expand="false" type="slide" />
+            <slidelink slideid="" displaytext="Cierre" expand="true" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="64t0pUc1GF9.6IRlojsE1dM" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="¡Bienvenido! En este curso profundizaremos sobre el concepto de Inteligencia artificial y Machine learning, revisando las principales aplicaciones existentes en la actualidad.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="¡Iniciemos el recorrido! "&gt;
+        &lt;Style ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="64t0pUc1GF9.5bW72fcJyxB" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Antes de comenzar con los temas del curso, te dejamos algunas orientaciones para una mejor navegación.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block /&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="64t0pUc1GF9.6k1YR4xxzZF" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Cuando hablamos de inteligencia artificial nos referimos a la capacidad de un agente informático para simular los procesos cognitivos que habitualmente se asocian a la inteligencia humana. &amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Veamos más sobre este concepto.&amp;#xD;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block /&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="64t0pUc1GF9.5VTk1sXwSdU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Si bien podemos remontar a tiempos de Aristóteles las primeras ideas en torno a este concepto, dado que fue el primero en describir de manera estructurada un conjunto de reglas, silogismos, en torno al funcionamiento de la mente humana, recién en 1940 podemos ubicar los orígenes de la inteligencia artificial. &amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="64t0pUc1GF9.5eFx2uQsz86" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="De este modo,  a partir de ese momento, la inteligencia artificial se ha orientado al usuario aplicándose en muy diferentes áreas.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="64t0pUc1GF9.6Yhaf2NpJxs" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Así, podemos decir que la inteligencia artificial está presente en nuestra vida cotidiana, desde aplicaciones que funcionan como “pequeñas ayudas”  o bien a través de sofisticados sistemas. &amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="64t0pUc1GF9.6Vpn5WuOCfe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Ahora bien, para que la  inteligencia artificial consiga hacer lo que supone que debe hacer, previamente debe pasar por un proceso de aprendizaje sobre esa materia. Las técnicas que engloban este aprendizaje se denomina “Machine learning”.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="64t0pUc1GF9.6BDKbN1GsGi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Es importante destacar que Machine Learning está formado por distintos tipos de aprendizaje. Veámoslos."&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="64t0pUc1GF9.5fT16vRrQpi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Así, podemos decir que el objetivo de toda la tecnología de inteligencia artificial es crear soluciones que hagan más fácil la vida de las personas, eliminando de su agenda las tareas más rutinarias y repetitivas, para que puedan centrarse en las más creativas.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="64t0pUc1GF9.6E8ssnnzQwX" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Otro concepto vinculado a la Inteligencia artificial y Machine learning es el Deep Learning. Conozcamos de qué se trata.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="64t0pUc1GF9.6maYidlGsY3" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="De este modo, podemos decir que la inteligencia artificial, impulsada por un creciente número de dispositivos conectados a la red, junto a la gran cantidad de datos disponibles, presenta un desafío para empresas y organizaciones. Veamos algunos datos que han estimado los especialistas para los próximos años.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLxnWeHvll.5upSeuEGRhr" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Antes de continuar, te proponemos realizar una actividad de repaso.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLxnWeHvll.6AfBygmR1R1" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Antes de continuar, te proponemos realizar una actividad de repaso.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6Gu693dAaBp.5apbVbVwE6R" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Asimismo, es importante destacar que la inteligencia artificial también está presente en la seguridad. Diversas aplicaciones como el reconocimiento de voz o el reconocimiento facial son algunas de las aplicaciones en este ámbito.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block /&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6Gu693dAaBp.6AKOiRqd4x6" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Profundizaremos ahora en el reconocimiento facial. Veamos en primer lugar, de qué se trata exactamente. &amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6Gu693dAaBp.5vQ4LZJTtom" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="De este modo, el reconocimiento facial resulta útil en numerosas aplicaciones e industrias, ayudando a identificar personas en diferentes ámbitos.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6Gu693dAaBp.5ua8yGs4O1m" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="15">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Con respecto a esta aplicación, debemos destacar que reconocimiento facial debe utilizarse de manera responsable, a fin de  salvaguardar los derechos de las personas. Ampliemos este punto.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6Gu693dAaBp.6LsAh8tSPAp" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="16">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Revisemos algunos conceptos vinculados al reconocimiento facial, que es preciso conocer.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6Gu693dAaBp.61mva4MTbXK" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="En este sentido, podemos afirmar que el reconocimiento facial  se ha convertido en los últimos años en un área de investigación activa para diversas disciplinas, y áreas de conocimiento, así como para brindar soluciones en distintas materias, como por ejemplo en seguridad.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6Gu693dAaBp.6Cfs33tQLnm" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Veamos a continuación, en qué áreas específicas de aplicación se utiliza el reconocimiento facial.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6Gu693dAaBp.6XryRyVJYrb" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="19">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Por último, revisemos cuáles son las principales empresas y API´s de reconocimiento facial que se ofrecen actualmente.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5lNyU7eFwMS.5zkyaP7tQgy" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="20">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Para finalizar, te proponemos realizar otra actividad de repaso.&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=""&gt;
+        &lt;Style FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#FFFFFF" LinkColor="#FFFFFF" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5XZAVt1Fffr.5xXM57WwDqi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="21">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="De este modo, hemos finalizado el curso sobre Inteligencia artificial/Machine Learning.&amp;#xD;&amp;#xA;"&gt;
+        &lt;Style ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="¡Muchas gracias por participar!&amp;#xD;"&gt;
+        &lt;Style ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block /&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>
